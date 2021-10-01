@@ -1,5 +1,7 @@
 # TimePlot
 
-Follow your stock portfolios and plot timeseries and historic graphs using Python.
+## work-in-progress
 
-The current goal is to use this repository as template code for useful and pretty time series visualizations.
+Follow your stock portfolios and plot timeseries and historic data using Python.
+
+This repository will be mainly used as template code for useful and clean time series visualizations.
